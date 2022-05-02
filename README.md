@@ -6,3 +6,9 @@ During the upcoming update I will add the login feature.
 I build this course by Angela Yu web development course.
 The link for the web app is :
 https://fast-dawn-06978.herokuapp.com/
+
+Technology used:
+Front end:Html,Css
+JavaScript for front end 
+Backend : Node js,express,Mongoose,MongoDB
+hosted in Heroku
